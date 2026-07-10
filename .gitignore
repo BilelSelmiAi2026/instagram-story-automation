@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Test & cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Generated output
+data/output/
+data/history/
+
+# Docker
+*.log

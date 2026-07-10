@@ -1,0 +1,11 @@
+sumy
+nltk
+numpy
+wand
+requests
+python-dotenv
+Pillow
+feedparser
+beautifulsoup4
+trafilatura
+cloudinary

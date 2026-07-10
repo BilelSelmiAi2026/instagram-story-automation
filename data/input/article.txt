@@ -1,0 +1,9 @@
+Artificial intelligence is changing how businesses process information and automate repetitive work. Companies increasingly use AI systems to analyze documents, answer customer questions, generate reports, and assist employees.
+
+One growing area is automatic text summarization. Summarization systems reduce long articles into shorter versions while preserving the most important information. This allows readers to understand the main ideas without reading the complete document.
+
+Extractive summarization selects important sentences from the original document. Algorithms such as TextRank analyze relationships between sentences and rank them according to importance. The highest-ranked sentences are then used to create the summary.
+
+Unlike generative artificial intelligence, extractive summarization does not write completely new sentences. This can reduce hallucinations because every sentence in the summary comes directly from the source text.
+
+Automatic summarization can be useful for news applications, research tools, social media systems, and document-management platforms. In this project, it will be used to transform longer articles into concise text suitable for Instagram Story slides.
