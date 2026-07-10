@@ -319,16 +319,26 @@ Publish to Instagram
 
 ---
 
-# 📸 Example Output
+## Example Output
 
-The application automatically generates:
+### Generated Instagram Story
 
-- Instagram Story slides
-- Story carousels
-- Cloudinary-hosted images
-- Instagram-ready Stories
+<p align="center">
+  <img src="docs/screenshots/story_1.jpg"
+       alt="Generated Instagram Story"
+       width="320">
+</p>
 
-*(Screenshots coming soon.)*
+### Story Carousel
+
+<p align="center">
+  <img src="docs/screenshots/story_1.jpg"
+       alt="Story carousel slide 1"
+       width="280">
+  <img src="docs/screenshots/story_2.jpg"
+       alt="Story carousel slide 2"
+       width="280">
+</p>
 
 ---
 
